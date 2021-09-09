@@ -1,5 +1,6 @@
 <header>
-  <h1>Hi there 👋  I'm Jeongjin Oh.<img align="right"src="https://komarev.com/ghpvc/?username=ojj1123" alt="ojj1123" />
+  <h1>Hi there 👋  I'm Jeongjin Oh.
+<!--     <img align="right"src="https://komarev.com/ghpvc/?username=ojj1123" alt="ojj1123" /> -->
   <a href="mailto:ojj991123@gmail.com">  
     <img align="right" src="http://img.shields.io/badge/-contact-9cf?style=social&amp;logo=Minutemailer&amp" alt="Contact Email">
   </a>
