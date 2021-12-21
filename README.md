@@ -10,8 +10,13 @@
    <img src=https://github-readme-stats.vercel.app/api?username=ojj1123&count_private=true&show_icons=true" alt="ojj1123"  width="54%"/>
   </p>
 </header>
+
+### 🧑‍💻 I mainly use this.
+- React
+- Redux
                                                                                                                                       
 ### 🌱 I’m currently learning ...
-- React
-                                                                                                                                      
-                                                                                                                                      
+- React                                                                                                                                  
+- React query                                                                                                                        
+- TypeScript
+- Next.js                                                                                                                                      
