@@ -16,7 +16,8 @@
 - Redux
                                                                                                                                       
 ### 🌱 I’m currently learning ...
-- React                                                                                                                                  
-- React query                                                                                                                        
+- React
+- react query, swr
+- Tailwindcss                                                                                                                     
 - TypeScript
 - Next.js                                                                                                                                      
