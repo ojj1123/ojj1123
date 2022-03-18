@@ -14,10 +14,11 @@
 ### 🧑‍💻 I mainly use this.
 - React
 - Redux
+- React query, SWR                                                                                                                                   
                                                                                                                                       
 ### 🌱 I’m currently learning ...
 - React
-- react query, swr
+- React query, SWR
 - Tailwindcss                                                                                                                     
 - TypeScript
 - Next.js                                                                                                                                      
