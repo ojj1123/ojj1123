@@ -18,7 +18,6 @@
                                                                                                                                       
 ### 🌱 I’m currently learning ...
 - React
-- React query, SWR
-- Tailwindcss                                                                                                                     
+- React query, SWR                                                                                                                 
 - TypeScript
 - Next.js                                                                                                                                      
