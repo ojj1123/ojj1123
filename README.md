@@ -12,12 +12,13 @@
 </header>
 
 ### 🧑‍💻 I mainly use this.
+- TypeScript, Javascript
 - React
 - Redux
-- React query, SWR                                                                                                                                   
+- React query, SWR  
+- Tailwindcss                                                                                                                                 
                                                                                                                                       
 ### 🌱 I’m currently learning ...
-- React
+- React18, Next.js
 - React query, SWR                                                                                                                 
-- TypeScript
-- Next.js                                                                                                                                      
+- vanilla-extract                                                                                                                                
