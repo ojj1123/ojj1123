@@ -22,7 +22,7 @@
 - React query                                                                                                                
 - vanilla-extract                                                                                                                                
 
-### 🌱 I’m interested in ... 
+### 🧐 I’m interested in ... 
 - Devops
 - SSR architecture
 - Improving UX/DX
