@@ -14,11 +14,16 @@
 ### 🧑‍💻 I mainly use this.
 - TypeScript, Javascript
 - React
-- Redux
 - React query, SWR  
 - Tailwindcss                                                                                                                                 
                                                                                                                                       
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ... 
 - React18, Next.js
-- React query, SWR                                                                                                                 
+- React query                                                                                                                
 - vanilla-extract                                                                                                                                
+
+### 🌱 I’m interested in ... 
+- Devops
+- SSR architecture
+- Improving UX/DX
+- Extendable code
