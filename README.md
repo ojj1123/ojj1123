@@ -26,4 +26,4 @@
 - Devops
 - SSR architecture
 - Improving UX/DX
-- Extendable code
+- Effective Component
