@@ -5,7 +5,11 @@
   </a>
 </header>
 
-[RESUME](https://career.programmers.co.kr/pr/dev_jay) | [Study Archive](https://jeongjin.notion.site/STUDY-ARCHIVE-0ef11fbee41e43b38c7f8b6ed5bd65d3)
+<div>
+  <a href="https://career.programmers.co.kr/pr/dev_jay" target='_blank'>RESUME</a>
+  |
+  <a href="https://jeongjin.notion.site/STUDY-ARCHIVE-0ef11fbee41e43b38c7f8b6ed5bd65d3" target='_blank'>Study Archive</a>
+</div>
 
 ### 🧑‍💻 I mainly use this.
 - TypeScript, Javascript
