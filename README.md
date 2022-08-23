@@ -1,6 +1,6 @@
 <header>
   <h1>I'm Jeongjin Oh.👋</h1>
-  <a href="mailto:ojj991123@gmail.com">  
+  <a href="mailto:rojay.developer@gmail.com">  
     <img align="right" src="http://img.shields.io/badge/-contact-9cf?style=social&amp;logo=Minutemailer&amp" alt="Contact Email">
   </a>
 </header>
