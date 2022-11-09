@@ -5,7 +5,7 @@
   </a>
 </header>
 
-[RESUME](https://career.programmers.co.kr/pr/dev_jay) | [Blog](https://velog.io/@ojj1123) | [Study Archive](https://jeongjin.notion.site/STUDY-ARCHIVE-0ef11fbee41e43b38c7f8b6ed5bd65d3)
+[RESUME](https://career.programmers.co.kr/pr/dev_jay) | [Blog](https://velog.io/@ojj1123)
 
 
 ### 👍 Contributions
