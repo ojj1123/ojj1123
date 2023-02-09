@@ -8,14 +8,14 @@
 [RESUME](https://career.programmers.co.kr/pr/dev_jay) | [Blog](https://velog.io/@ojj1123)
 
 
-### 👍 Contributions
-- mdn/translated-content [[ko/update] web/javascript/reference/operators/await #7654](https://github.com/mdn/translated-content/pull/7654)
-
 ### 🧑‍💻 I mainly use this.
 - TypeScript, Javascript
+- Next.js
 - React
 - Tailwindcss
-- SWR                                                                                                                                   
+- SWR, React-query
                                                                                                                                       
 ### 🌱 I’m currently learning ... 
-- Javascript ES6+                                                                                            
+- [HTTP study](https://github.com/Endless-Creation-32nd/HTTP-The-Definitive-Guide)
+- [Javascript ES6+](https://github.com/Endless-Creation-32nd/javascript-deep-dive)       
+- SSR Architecture                                                                                     
