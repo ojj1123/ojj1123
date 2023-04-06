@@ -5,7 +5,7 @@
   </a>
 </header>
 
-[RESUME](https://career.programmers.co.kr/pr/dev_jay) | [Blog](https://velog.io/@ojj1123)
+[Blog](https://velog.io/@ojj1123)
 
 
 ### 🧑‍💻 I mainly use this.
