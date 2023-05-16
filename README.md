@@ -14,8 +14,12 @@
 - React
 - Tailwindcss
 - SWR, React-query
-                                                                                                                                      
-### 🌱 I’m currently learning ... 
-- [HTTP study](https://github.com/Endless-Creation-32nd/HTTP-The-Definitive-Guide)
-- [Javascript ES6+](https://github.com/Endless-Creation-32nd/javascript-deep-dive)       
-- SSR Architecture                                                                                     
+
+### 🧐 What I'm interested in
+- Open source
+- SSR Architecture, React18
+
+### 🌱 I’m currently learning ...      
+- SSR Architecture
+- React18
+- React-query                                                              
