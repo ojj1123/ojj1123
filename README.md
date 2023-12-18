@@ -13,8 +13,8 @@
 - SWR, React-query
 
 ### 🧐 What I'm recently interested in:
-- How to adopt easily React Server Component on production (So I'm interested in [Waku](https://github.com/dai-shi/waku) made by [dai-shi](https://github.com/dai-shi))
-- How to build React UI Component (So I'm interested in [Zag.js](https://github.com/chakra-ui/zag) made by chakra-ui)
+- How to adopt easily React Server Components on production (So I'm interested in [Waku](https://github.com/dai-shi/waku) made by [dai-shi](https://github.com/dai-shi))
+- How to build React UI components (So I'm interested in [Zag.js](https://github.com/chakra-ui/zag) made by chakra-ui)
 
 ### 📚 Tech blog I wrote:
 - [[번역] Chakra UI의 미래](https://velog.io/@ojj1123/the-future-of-chakra-ui)
