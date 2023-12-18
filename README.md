@@ -16,7 +16,7 @@
 - How to adopt easily React Server Component on production (So I'm interested in [Waku](https://github.com/dai-shi/waku) made by [dai-shi](https://github.com/dai-shi))
 - How to build React UI Component (So I'm interested in [Zag.js](https://github.com/chakra-ui/zag) made by chakra-ui)
 
-### 📚 Tech blog I wrote
+### 📚 Tech blog I wrote:
 - [[번역] Chakra UI의 미래](https://velog.io/@ojj1123/the-future-of-chakra-ui)
 - [Typescript 타입 시스템 찍먹하기: 타입 호환성](https://velog.io/@ojj1123/about-type-compatibility)
 - [인증 로직 주입은 어디서 해야할까?(feat.횡단관심사분리)](https://velog.io/@ojj1123/where-should-i-inject-the-authentication-logic)
