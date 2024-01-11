@@ -17,6 +17,7 @@
 - How to build React UI components (So I'm interested in [Zag.js](https://github.com/chakra-ui/zag) made by chakra-ui)
 
 ### 📚 Tech blog I wrote:
+- [[회고] 뜨거운 합격의 목걸이 22개 🏅](https://velog.io/@ojj1123/2023-retrospect)
 - [[번역] Chakra UI의 미래](https://velog.io/@ojj1123/the-future-of-chakra-ui)
 - [Typescript 타입 시스템 찍먹하기: 타입 호환성](https://velog.io/@ojj1123/about-type-compatibility)
 - [인증 로직 주입은 어디서 해야할까?(feat.횡단관심사분리)](https://velog.io/@ojj1123/where-should-i-inject-the-authentication-logic)
