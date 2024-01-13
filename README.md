@@ -10,11 +10,11 @@
 - React, Next.js
 - TypeScript, Javascript
 - Tailwindcss
-- SWR, React-query
+- React-query
 
 ### 🧐 What I'm recently interested in:
 - How to adopt easily React Server Components on production (So I'm interested in [Waku](https://github.com/dai-shi/waku) made by [dai-shi](https://github.com/dai-shi))
-- How to build React UI components (So I'm interested in [Zag.js](https://github.com/chakra-ui/zag) made by chakra-ui)
+- How to implement the modern bundlers such as vite, parcel, so on
 
 ### 📚 Tech blog I wrote:
 - [[회고] 뜨거운 합격의 목걸이 22개 🏅](https://velog.io/@ojj1123/2023-retrospect)
