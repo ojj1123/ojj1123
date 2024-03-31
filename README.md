@@ -17,6 +17,7 @@
 - How to implement the modern bundlers such as vite, parcel, so on
 
 ### 📚 Tech blog I wrote:
+- [밈 검색 만족도를 높이기 위한 여정](https://velog.io/@ojj1123/how-to-improve-meme-search-ux)
 - [[회고] 2024년 1, 2월 회고 (feat. 소프티어 부트캠프)](https://velog.io/@ojj1123/jan-and-feb-2024-review)
 - [[회고] 뜨거운 합격의 목걸이 22개 🏅](https://velog.io/@ojj1123/2023-retrospect)
 - [[번역] Chakra UI의 미래](https://velog.io/@ojj1123/the-future-of-chakra-ui)
