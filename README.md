@@ -9,8 +9,9 @@
 ### 🧑‍💻 I mainly use this:
 - React, Next.js
 - TypeScript, Javascript
-- Tailwindcss
-- React-query
+- React-query, Redux, Zustand
+- Tailwindcss, Emotion
+
 
 ### 🧐 What I'm recently interested in:
 - How to adopt easily React Server Components on production (So I'm interested in [Waku](https://github.com/dai-shi/waku) made by [dai-shi](https://github.com/dai-shi))
