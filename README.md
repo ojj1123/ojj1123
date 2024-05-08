@@ -13,10 +13,6 @@
 - Tailwindcss, Emotion
 
 
-### 🧐 What I'm recently interested in:
-- How to adopt easily React Server Components on production (So I'm interested in [Waku](https://github.com/dai-shi/waku) made by [dai-shi](https://github.com/dai-shi))
-- How to implement the modern bundlers such as vite, parcel, so on
-
 ### 📚 Tech blog I wrote:
 - [[번역] Zustand와 React Context](https://velog.io/@ojj1123/zustand-and-react-context)
 - [[기술] 밈 검색 만족도를 높이기 위한 여정](https://velog.io/@ojj1123/how-to-improve-meme-search-ux)
