@@ -1,11 +1,5 @@
 # Hello. I am Jeongjin Oh, a web engineer.👋
 
-<a href="mailto:rojay.developer@gmail.com"> 
-  <img align="right" src="http://img.shields.io/badge/-contact-9cf?style=social&amp;logo=Minutemailer&amp" alt="Contact Email">
-</a>
-
-[![ojj1123's velog](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@ojj1123)
-
 ### 🧑‍💻 Tech stack
 - React, Next.js
 - TypeScript, Javascript
@@ -23,6 +17,7 @@
     - TagsInput의 **E2E 테스트 추가** https://github.com/chakra-ui/zag/pull/921
 
 ### 📚 Tech blog I wrote:
+> 전체 글 보러가기 👉 [![ojj1123's velog](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@ojj1123)
 - [[번역] Zustand와 React Context](https://velog.io/@ojj1123/zustand-and-react-context)
 - [[기술] 밈 검색 만족도를 높이기 위한 여정](https://velog.io/@ojj1123/how-to-improve-meme-search-ux)
 - [[회고] 2024년 1, 2월 회고 (feat. 소프티어 부트캠프)](https://velog.io/@ojj1123/jan-and-feb-2024-review)
