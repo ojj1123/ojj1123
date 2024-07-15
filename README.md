@@ -16,9 +16,9 @@
 - [chakra-ui/zag](https://github.com/chakra-ui/zag/pulls?q=involves:ojj1123) : UI components powered by Finite state machines
     - Added e2e tests of `TagsInput`. https://github.com/chakra-ui/zag/pull/921
 
-### 📚 Tech articles I wrote:
+### 📚 The articles I wrote:
 
-> I've just posted the tech articles in Korean 🙏
+> I have only posted in Korean 🙏
 > I will be writting in both Korean and English.
 >
 > Read more 👉 [![ojj1123's velog](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@ojj1123)
