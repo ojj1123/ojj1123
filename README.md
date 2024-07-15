@@ -3,7 +3,7 @@
 ### 🧑‍💻 Tech stacks
 - React, Next.js
 - TypeScript, Javascript
-- React-query, Redux, Zustand
+- @tanstack/react-query, Redux, Zustand
 - Tailwindcss, Emotion
 
 ### 🙌 Contributions
@@ -14,7 +14,7 @@
 - [toss/slash](https://github.com/toss/slash/issues?q=involves:ojj1123) : React utils library by Toss
     - Fix the wrong type inference that force the developers to use the unnecessary generics. https://github.com/toss/slash/pull/292
 - [chakra-ui/zag](https://github.com/chakra-ui/zag/pulls?q=involves:ojj1123) : UI components powered by Finite state machines
-    - TagsInput의 **E2E 테스트 추가** https://github.com/chakra-ui/zag/pull/921
+    - Add the e2e tests of `TagsInput`. https://github.com/chakra-ui/zag/pull/921
 
 ### 📚 Tech articles I wrote:
 
