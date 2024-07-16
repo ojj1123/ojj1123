@@ -21,7 +21,7 @@
 > I have only posted in Korean 🙏
 > I will be writting in both Korean and English.
 >
-> Read more 👉 [![ojj1123's velog](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@ojj1123)
+> Read more 👉 [My blog](https://velog.io/@ojj1123)
 
 - [[Translation] Zustand와 React Context](https://velog.io/@ojj1123/zustand-and-react-context)
 - [[Tech] 밈 검색 만족도를 높이기 위한 여정](https://velog.io/@ojj1123/how-to-improve-meme-search-ux)
