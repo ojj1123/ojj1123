@@ -1,10 +1,25 @@
-# Hi. I am Jeongjin Oh, a web engineer.👋
+# 성장을 위해 _정진_ 하는 개발자 오정진 입니다.
+
+### 👋 Who am I?
+
+1. **꾸준함**에 큰 가치를 두고 있어요.
+    - **1년 6개월 간** [**웹 프러덕트를 개발**](https://github.com/thismeme-team/thismeme-web)하며 웹 프론트엔드 개발에 노하우를 쌓고 흥미를 가졌어요 🙂
+    - **지난 2년 간 기술 블로그를 운영**하며 웹 개발 학습, 노하우, 번역글, 회고글을 사람들과 공유해왔어요.
+    - 현재는 **풀스택 개발자**로 [“대학생 소모임 플랫폼, About”](https://github.com/AboutClan/About) 프로젝트에 참여하고 있어요.
+2. 혼자 빠르게 가는 것보다 **함께 앞으로 나아가는 것을 추구해요.**
+    - 1년 간 학교 교내 동아리의 학술부장으로 활동하며 동아리원들에게 지식 전파 활동을 해왔어요.
+    - 배움을 나누기 위해 동아리 내 기술 세미나를 주도하고 진행해본 경험이 있어요.
+    - 웹 오픈소스에 관심을 가지고 참여하고 있어요. **스스로 문제를 정의하고 해결하는 과정에서 오는 즐거움은 덤이랍니다** 😄
+    - 글**로 사람의 마음을 움직일 수 있다는 믿음**으로 기술 블로그를 운영하고 있어요.
+  
 
 ### 🧑‍💻 Tech stacks
 - React, Next.js
 - TypeScript, Javascript
 - @tanstack/react-query, Redux, Zustand
 - Tailwindcss, Emotion
+- Express, MongoDB
+
 
 ### 🙌 Contributions
 - [vercel/next.js](https://github.com/vercel/next.js/issues?q=involves:ojj1123) : React Framework
@@ -15,6 +30,7 @@
     - Fixed incorrect type inference that forced developers to use generics. https://github.com/toss/slash/pull/292
 - [chakra-ui/zag](https://github.com/chakra-ui/zag/pulls?q=involves:ojj1123) : UI components powered by Finite state machines
     - Added e2e tests of `TagsInput`. https://github.com/chakra-ui/zag/pull/921
+
 
 ### 📚 The articles I wrote:
 
