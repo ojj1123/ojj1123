@@ -24,13 +24,14 @@
 
 ### 🙌 Contributions
 - [vercel/next.js](https://github.com/vercel/next.js/issues?q=involves:ojj1123) : React Framework
-    - Fixed a bug that occurred when setting up a custom loader used for image optimization and wrote e2e tests for it. https://github.com/vercel/next.js/pull/64036
+    - Fix a bug that occurred when setting up a custom loader used for image optimization and wrote e2e tests for it. https://github.com/vercel/next.js/pull/64036
 - [dai-shi/waku](https://github.com/dai-shi/waku/issues?q=involves:ojj1123) : Minimal React Framework
-    - Added and improved CLI (`create-waku`) related features. https://github.com/dai-shi/waku/pull/581
+    - Add and improve CLI (`create-waku`) related features. https://github.com/dai-shi/waku/pull/581
+    - Add a feature that install dependencies automatically when creating a new waku project. https://github.com/dai-shi/waku/pull/808
 - [toss/slash](https://github.com/toss/slash/issues?q=involves:ojj1123) : React utils library by Toss
-    - Fixed incorrect type inference that forced developers to use generics. https://github.com/toss/slash/pull/292
+    - Fix incorrect type inference that forced developers to use generics. https://github.com/toss/slash/pull/292
 - [chakra-ui/zag](https://github.com/chakra-ui/zag/pulls?q=involves:ojj1123) : UI components powered by Finite state machines
-    - Added e2e tests of `TagsInput`. https://github.com/chakra-ui/zag/pull/921
+    - Add e2e tests of `TagsInput`. https://github.com/chakra-ui/zag/pull/921
 
 
 ### 📚 The articles I wrote:
