@@ -1,24 +1,15 @@
-# 성장을 위해 _정진_ 하는 개발자 오정진 입니다.
+# Introduce
 
-### 👋 Who am I?
+Hi, I'm Jeongjin Oh and Frontend engineer. Enjoy your work!
 
-1. **꾸준하게 오래** 하는 것을 좋아해요.
-    - 1년 6개월간 [웹 프로덕트를 개발](https://github.com/thismeme-team/thismeme-web)하며 웹 프론트엔드 개발에 노하우를 쌓고 흥미를 느꼈어요. 이 기간에 사용자 **1만 명**이 유입하며 즐겁게 서비스를 이용하는 모습에 보람을 느껴 웹 프로덕트 개발을 본격적으로 시작했어요 🙂
-    - 지난 2년간 기술 블로그를 운영하며 웹 개발 학습, 노하우, 번역, 회고 글을 사람들과 공유해왔어요.
 
-2. 혼자 빠르게 가는 것보다 **함께 앞으로 나아가는 것을 추구해요.**
-    - 1년간 학교 교내 동아리의 학술부장으로 활동하며 동아리원들에게 지식 전파 활동을 해왔어요.
-    - 배움을 나누기 위해 동아리 내 기술 세미나를 주도하고 진행해 본 경험이 있어요.
-    - 웹 생태계의 성장을 돕고자 오픈소스에 관심을 가지고 참여하고 있어요. **문제를 정의하고 전 세계의 개발자들과 해결하는 과정에서 오는 즐거움은 덤이랍니다 😄**
-    - **글로 사람의 마음을 움직일 수 있다는 믿음**으로 기술 블로그를 운영해요.
-  
+### 💻 Career
+- [Elice](https://elice.io/en), Frontend Engineer, intern, 2024.12 ~
+
 
 ### 🧑‍💻 Tech stacks
-- React, Next.js
-- TypeScript, Javascript
+- React, Next.js, TypeScript, Javascript
 - @tanstack/react-query, Redux, Zustand
-- Storybook, Tailwindcss, Emotion
-- Express, MongoDB
 
 
 ### 🙌 Contributions
