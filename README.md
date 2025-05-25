@@ -4,7 +4,7 @@ Hi, I'm Jeongjin Oh and Frontend engineer. Enjoy your work!
 
 
 ### 💻 Career
-- [Elice](https://elice.io/en), Frontend Engineer, intern, 2024.12 ~
+- [Elice](https://elice.io/en), Platform div. Frontend Engineer, intern, 2024.12 ~
 
 
 ### 🧑‍💻 Tech stacks
