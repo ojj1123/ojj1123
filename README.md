@@ -32,6 +32,7 @@ Hi, I'm Jeongjin Oh and Frontend engineer. Enjoy your work!
 >
 > Read more 👉 [My blog](https://velog.io/@ojj1123)
 
+- [[Retrospect] AI를 팀원으로 만들기 (feat. Cursor와 Figma MCP)](https://velog.io/@ojj1123/how-to-make-ai-to-be-coworker)
 - [[Translation] Zustand와 React Context](https://velog.io/@ojj1123/zustand-and-react-context)
 - [[Tech] 밈 검색 만족도를 높이기 위한 여정](https://velog.io/@ojj1123/how-to-improve-meme-search-ux)
 - [[Retrospect] 2024년 1, 2월 회고 (feat. 소프티어 부트캠프)](https://velog.io/@ojj1123/jan-and-feb-2024-review)
