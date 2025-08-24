@@ -17,7 +17,6 @@ Hi, I'm Jeongjin Oh and Frontend engineer. Enjoy your work!
 - [dai-shi/waku](https://github.com/dai-shi/waku/issues?q=involves:ojj1123)
 - [toss/slash](https://github.com/toss/slash/issues?q=involves:ojj1123)
 - [chakra-ui/zag](https://github.com/chakra-ui/zag/pulls?q=involves:ojj1123)
-- [radix-ui/primitives](https://github.com/radix-ui/primitives/pulls?q=involves:ojj1123)
 
 ### 📚 The articles I wrote:
 
